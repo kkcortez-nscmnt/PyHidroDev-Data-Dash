@@ -1,0 +1,9 @@
+{
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+
+  "files.exclude": {
+    "**/__init__.py": true,
+    "**/__pycache__": true
+  }
+}
